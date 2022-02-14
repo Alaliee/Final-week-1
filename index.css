@@ -1,0 +1,85 @@
+body {
+	background-color: rgba(25, 108, 156, 0.767);
+    text-align: center;
+   position: fixed;
+
+}
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  
+  
+}
+
+ #idCard {
+    background: rgb(226, 196, 183);
+    float: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 450px;
+    height: 250px;
+    margin-left: 450px;
+    margin-right:450px ;
+ }
+
+ 
+ 
+
+
+#onclick {
+    margin: 10px 0 30px 0;
+}
+
+#pbrder {
+    border: 1px solid black;
+    width:100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: fixed;
+    border-radius: 50px;
+        
+}
+
+#postFullName {
+    text-align: center;
+    padding-left: 50px;
+    padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-bottom: 15px;
+    
+}
+
+#postAge {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 1px;
+}
+
+#postPhoneNumber {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-bottom: 1px;
+
+
+}
+
+#postAddress {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 15px;
+
+}
+
